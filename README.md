@@ -11,15 +11,15 @@ coding-dojo
 
 Die Reihenfolge ist aufsteigend, je weiter unten der Aufzählung, desto höher der Wert:
 
-- High Card: die höchste Karte gewinnt
-- Pair: zwei von einem Wert, das höchste Paar gewinnt
-- Two Pairs: zwei Paare, Regeln wir bei Pair und High Card
-- Three of Kind: drei Karten des selben Wertes
-- Straight: fünf Karten in Reihenfolge der Werte mit unterschiedlichen Farben
-- Flush: Fünf Karten der selben Farbe
-- FullHouse: die Summe aus Pair und Three of Kind
-- Four of a kind: wie Three of Kind, nur mit 4 Karten
-- Straight: wie Straight nur alle von der selben Farbe
+- **High Card**: die höchste Karte gewinnt
+- **Pair**: zwei von einem Wert, das höchste Paar gewinnt
+- **Two Pairs**: zwei Paare, Regeln wir bei Pair und High Card
+- **Three of Kind**: drei Karten des selben Wertes
+- **Straight**: fünf Karten in Reihenfolge der Werte mit unterschiedlichen Farben
+- **Flush**: Fünf Karten der selben Farbe
+- **FullHouse**: die Summe aus Pair und Three of Kind
+- **Four of a kind**: wie Three of Kind, nur mit 4 Karten
+- **Straight**: wie Straight nur alle von der selben Farbe
 
 Bei Gleichheit entscheidet immer der höchste Wert.
 
